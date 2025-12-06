@@ -11,7 +11,7 @@
 
 .ota{
     width: 500px;
-    height: 800px;
+    height: 1500px;
     background-color: white;
 }
 /* .q{
@@ -150,11 +150,15 @@ body{
         justify-content: center;
     }
     .ot{
-        background-color: aqua;
-        /* height: 70px;
-        width: 9000px; */
+        /* background-color: white; */
+        height: 70px;
+        width: 500px;
     }
 }
+.o{width: 500px;
+    height: 900px;
+}
+
 
 .v{
     background-color: aqua;
